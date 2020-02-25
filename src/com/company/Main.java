@@ -7,5 +7,6 @@ public class Main {
         Shape square = new Shape();
         square.setShape("Square");
         System.out.println("the shape is: " + square.getShape());
+        System.out.println("Ended");
     }
 }
